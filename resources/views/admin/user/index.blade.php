@@ -4,7 +4,7 @@
 
 @section('button')
     <a class="btn btn-primary btn-sm float-right mr-2" href="{{ route('user.create') }}">
-        <i class="fa fa-plus"></i> Add Product
+        <i class="fa fa-plus"></i> Add User
     </a>
 @endsection
 
